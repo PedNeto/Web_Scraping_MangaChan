@@ -1,3 +1,7 @@
+# Script feito por Pedro Neto
+# Inicio do trabalho: 11/07/2022
+# Termino do trabalho: 26/07/2022
+
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 import urllib.request
