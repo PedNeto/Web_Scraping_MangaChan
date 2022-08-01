@@ -13,5 +13,5 @@ Funcionamento do Scraping:
 
 Digite o nome do manga: <nome do manga>
 
-segue o arquivo "mashle" que deixei como exemplo para poderem entender como é o salvamento
-das informações que são trazidas do manga "Mashle: Magic and Muscles"
+segue o arquivo "solo leveling" que deixei como exemplo para poderem entender como é o salvamento
+das informações que são trazidas do manga "Solo Leveling"
